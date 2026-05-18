@@ -342,7 +342,7 @@ This project is **original work** by Reza Doostani.
 ```bash
 $ python main.py
 
-TREASURY RISK ENGINE v18.5 — FULLY CONSISTENT
+TREASURY RISK ENGINE — FULLY CONSISTENT
 ================================================================================
 
 📈 LATEST YIELD CURVE (%):
