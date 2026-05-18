@@ -1,16 +1,3 @@
-# ============================================================
-# TREASURY RISK ENGINE v18.5 — FULLY CONSISTENT PRODUCTION-GRADE
-# ============================================================
-# KEY FEATURES IN v18.5:
-# 1. PCA yield curve decomposition (realistic Level/Slope/Curvature)
-# 2. Non-parallel scenario shocks (Steepener/Flattener)
-# 3. Component VaR (Euler allocation) - CORRECTLY SCALED to official VaR
-# 4. DV01 uses correct unit conversion ($/bp × bp × √T × Z)
-# 5. PROFESSIONAL DV01 INTERPRETATION for ALCO / Risk Committee
-# 6. CONSISTENT VaR source for all comparisons
-# 7. AUTO-GENERATE DOCS: README, CV_BULLETS, ARCHITECTURE, RISK_REPORT
-# ============================================================
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
