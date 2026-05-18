@@ -229,7 +229,7 @@ GOVERNANCE LAYER
 
 ---
 
-## 🧠 14. Advanced Features (v18.5)
+## 🧠 14. Advanced Features 
 
 | Feature                         | Description                                           |
 |---------------------------------|-------------------------------------------------------|
